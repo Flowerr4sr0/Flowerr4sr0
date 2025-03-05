@@ -4,7 +4,7 @@
 > - 💞️ I’m looking to collaborate on my youtube fans projects
 > - 📫 How to reach me by email 
 > - 😄 Pronouns: he/him/his
-> - ⚡ Fun fact: ...
+> - ⚡ Fun fact: I've been playing minecraft for 3yr
 
 <!---
 FlowerYT6/FlowerYT6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
