@@ -2,7 +2,7 @@
 > - 👀 I’m interested in Coding
 > - 🌱 I’m currently learning python
 > - 💞️ I’m looking to collaborate on my youtube fans projects
-> - 📫 How to reach me by email 
+> - 📫 How to reach me is by email 
 > - 😄 Pronouns: he/him/his
 > - ⚡ Fun fact: I've been playing minecraft for 3yr
 
