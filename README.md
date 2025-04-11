@@ -1,12 +1,3 @@
-> - 👋 Hi, I’m @FlowerYT6
-> - 👀 I’m interested in Coding
-> - 🌱 I’m currently learning python
-> - 💞️ I’m looking to collaborate on my youtube fans projects
-> - 📫 How to reach me is by email 
-> - 😄 Pronouns: he/him/his
-> - ⚡ Fun fact: I've been playing minecraft for 3yr
-
-<!---
-FlowerYT6/FlowerYT6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Flower
+## Statistics
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
