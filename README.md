@@ -1,4 +1,5 @@
 # Flower_r4sr0
+## Personality
 Hello, I'm a YouTuber called Flower_r4sr0, i like coding random things.
 I live in Australia/Adelaide SA.
 I have blye eyes.
