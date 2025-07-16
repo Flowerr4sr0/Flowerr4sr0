@@ -1,4 +1,10 @@
 # Flower_r4sr0
+## Contact
+Email (Not for junk): mailto:arlorecchia123@gmail.com
+Junk Email (I read them sometimes): mailto:itsnotgamez11@gmail.com
+## Social
+YouTube: https://youtube.com/@Flower_r4sr0/
+Discord: https://dcd.gg/f0 <a href="dcd.gg">Don't think link is safe?</a>
 ## Personality
 Hello, I'm a YouTuber called Flower_r4sr0, i like coding random things.
 I live in Australia/Adelaide SA.
