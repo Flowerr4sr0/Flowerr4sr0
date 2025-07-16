@@ -1,4 +1,13 @@
 # Flower_r4sr0
-Chat To Me! and others!: https://github.com/FlowerYT6/FlowerYT6/discussions
-<a href="https://github.com/FlowerYT6/FlowerYT6/blob/main/README.md"><imb align="center" src="https://github-profile-trophy.vercel.app/?username=FlowerYT6&theme=transparent"></a>
-<a href="https://github.com/FlowerYT6/FlowerYT6/blob/main/README.md"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FlowerYT6&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"></a><a href="https://github.com/FlowerYT6/FlowerYT6/blob/main/README.md/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlowerYT6&layout=compact&theme=buefy&hide_border=true"></a>
+Hello, I'm a YouTuber called Flower_r4sr0, i like coding random things.
+I live in Australia/Adelaide SA.
+I have blye eyes.
+I'm a boy.
+## Profile Stats
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Flowerr4sr0&theme=transparent"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Flowerr4sr0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flowerr4sr0&layout=compact&theme=buefy&hide_border=true"></a>
+## Orginization Stats
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Flowerr4sr0-org&theme=transparent"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Flowerr4sr0-org&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flowerr4sr0-org&layout=compact&theme=buefy&hide_border=true"></a>
