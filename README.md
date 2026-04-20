@@ -1,6 +1,6 @@
 # Flower_r4sr0
 ## Personality
-Hello, I'm 9 years old, I like coding random things.<br>
+Hello, I'm 10 years old, I like coding random things.<br>
 I live in Australia/Adelaide SA.<br>
 I have blye eyes.<br>
 I'm a boy.
