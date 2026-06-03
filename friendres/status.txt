@@ -1,2 +1,7 @@
 Arlo's Status is: Listening to Music, Other
-Music: The Boiled One • Alastorilla
+
+Music [
+Song Title: The Boiled One
+Song Artist: Alastorilla
+Song Platforms: YouTube/YouTube Music (Mostly), Spotify (Less Likely)
+Music Player: Avee Music Player (Pro) ]
