@@ -2,6 +2,8 @@
 ## Personality
 Hello, I like coding random things.<br>
 I live in Australia/Adelaide SA.<br>
+## Currently working on
+Check out my new project I'm working on!! [FlowerMod](https://github.com/FlowerMod)
 ## Profile Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Flowerr4sr0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flowerr4sr0&layout=compact&theme=buefy&hide_border=true">
